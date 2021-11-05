@@ -2,7 +2,6 @@
 using namespace std;
 int main() {
 	int a, b;
-	//a
 	cout << "A)" << endl;
 #include<iostream>
 using namespace std;
